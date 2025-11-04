@@ -46,6 +46,9 @@ MatchAnno is a graphical tool for annotating matching points. It is written in C
 
 
 ## Video demo
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/857700a6-b44d-4a49-8ddf-9883eb590cd6" width="90%" poster=""> </video>
+</div>
 
 
 
