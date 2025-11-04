@@ -1,14 +1,5 @@
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src=".\Assets\icon.svg" alt="icon" width="100">
-      </td>
-      <td style="vertical-align: middle; padding-left: 20px;">
-        <span style="font-size:50px; font-weight:bold;">MatchAnno</span>
-      </td>
-    </tr> 
-  </table>
+<img src=".\Assets\icon.svg" alt="icon" width="100" style="vertical-align: middle; margin-right: 20px;"><span style="font-size:50px; font-weight:bold; vertical-align: middle;">MatchAnno</span>
 </p>
 
 <div align="center">
@@ -20,7 +11,7 @@
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus">
   <img alt="Static Badge" src="https://img.shields.io/badge/Qt-%2341CD52?logo=qt&logoColor=%23FFFFFF">
-
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/kaiwenli325/MatchAnno">
 </div>
 
 
@@ -37,7 +28,11 @@
   <a href="#citation"><span style="font-size:20px;"><b>Citation</b></a>
 </div>
 
------
+
+<br>
+<br>
+<br>
+
 
 ## Description
 
