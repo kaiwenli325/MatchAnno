@@ -1,6 +1,12 @@
-<p align="center">
-<img src=".\Assets\icon.svg" alt="icon" width="100" style="vertical-align: middle; margin-right: 20px;"><span style="font-size:50px; font-weight:bold; vertical-align: middle;">MatchAnno</span>
-</p>
+<div align="center">
+  <img src=".\Assets\icon.svg" alt="icon" width="100" style="vertical-align: middle; margin-right: 10px;">
+</div>
+
+
+<h1 align="center">
+  MatchAnno
+</h1>
+
 
 <div align="center">
   <span style="font-size:20px;">A tool for matching points annotation</span>
